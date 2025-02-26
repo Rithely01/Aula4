@@ -44,4 +44,8 @@ input:hover {
 }
 a{
     color: rgb(112, 86, 99);
+
+}
+a:hover{
+    color: #961636 ;
 }
