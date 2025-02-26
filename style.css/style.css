@@ -24,15 +24,21 @@ input, button {
     border-radius: 5px;
     border: 5px;
     display: block;
+    outline-color: rgb(179, 46, 79) ;
    
 
 }
 button {
-    background-color:  #fda2c5;
+    background-color:  #e69bb8;
+    cursor: pointer;
 }
 button:hover {
-    background-color: rgb(255, 138, 167);
+    background-color: #d37e9f;
 }
 h2{
     color: #961636;
+}
+
+input:hover {
+    border: 1px solid #9b3f54;
 }
